@@ -1,0 +1,2 @@
+# DETECTION-AND-CLASSIFICATION-OF-ACCOUSTIC-ENVIRONMENT-USING-RANDOM-FOREST-AND-NEURAL-NETWORK
+Engineered an ML model (RF/Neural Network) for real-time acoustic environment classification (7 classes) for hearing aids. Used MFCCs &amp; PCA. The Neural Network achieved 97% accuracy, improving performance in noisy settings, despite challenges classifying nuanced soundscapes like "Restaurant" and "Babble."
